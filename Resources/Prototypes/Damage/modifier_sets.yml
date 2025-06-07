@@ -185,9 +185,9 @@
   coefficients:
     Blunt: 0.7
     Slash: 0.8
-    Piercing: 0.9 # Mono
+    Piercing: 0.95 # Mono
     Heat: 1.5
-    Shock: 1.2
+    Shock: 1.1 # mono | there currently does not exist a weapon that deals pure shock damage neither an armor that protects against it, right now this just makes true damage even higher
 
 - type: damageModifierSet
   id: Moth # Slightly worse at everything but cold
