@@ -17,3 +17,24 @@
   - AbominationCube
   - SpaceCarpCube
   - SpaceTickCube
+
+- type: latheRecipePack
+  id: SpeciesCubesStatic
+  recipes:
+  - HumanCube
+  - DionaCube
+  - FelinidCube
+  - GingerbreadCube
+  - MothCube
+  - DwarfCube
+  - HarpyCube
+  - RodentiaCube
+  - ReptilianCube
+  - VuplkaninCube
+  - SlimePersonCube
+  - YowieCube
+  - VoxCube
+  - ResomiCube
+  - GoblinCube
+  - ChitinidCube
+  - ProtogenCube
