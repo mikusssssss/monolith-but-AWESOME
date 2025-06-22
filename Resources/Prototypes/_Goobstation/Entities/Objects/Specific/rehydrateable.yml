@@ -135,12 +135,12 @@
 
 - type: entity
   parent: MonkeyCube
-  id: GoblinCube
-  name: goblin cube
+  id: ChitinidCube
+  name: chitinid cube
   components:
   - type: Rehydratable
     possibleSpawns:
-    - MobGoblinRandom
+    - MobChitinidRandom
 
 - type: entity
   parent: MonkeyCube
