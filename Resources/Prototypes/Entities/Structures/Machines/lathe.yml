@@ -404,6 +404,8 @@
     runningState: building
     staticPacks:
     - FriendlyCubesStatic
+    # Goobstation Packs
+    - SpeciesCubesStatic
   - type: EmagLatheRecipes
     emagStaticPacks:
     - HostileCubesStatic
