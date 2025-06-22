@@ -149,4 +149,4 @@
   components:
   - type: Rehydratable
     possibleSpawns:
-    - MobProtogenRandom
+    - MobProtogenRandom # mono end
