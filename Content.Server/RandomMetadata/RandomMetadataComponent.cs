@@ -15,6 +15,12 @@ public sealed partial class RandomMetadataComponent : Component
 
     [DataField]
     public List<ProtoId<LocalizedDatasetPrototype>>? NameSegments;
+
+    [DataField("nameSeparator")]
+    public string NameSeparator = " ";
+    
+    [DataField("descriptionSeparator")]
+    public string DescriptionSeparator = " ";
     
     /// Goobstation start
     /// <summary>
