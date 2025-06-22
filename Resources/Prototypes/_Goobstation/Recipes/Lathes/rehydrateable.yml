@@ -1,0 +1,143 @@
+- type: latheRecipe
+  id: HumanCube
+  result: HumanCube
+  completetime: 30
+  materials:
+    Biomass: 70 # Cloning needs that amount
+    Plasma: 250
+
+- type: latheRecipe
+  id: DionaCube
+  result: DionaCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: FelinidCube
+  result: FelinidCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: GingerbreadCube
+  result: GingerbreadCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: MothCube
+  result: MothCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: DwarfCube
+  result: DwarfCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: HarpyCube
+  result: HarpyCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: RodentiaCube
+  result: RodentiaCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: ReptilianCube
+  result: ReptilianCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: TajaranCube
+  result: TajaranCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: VulpkaninCube
+  result: VulpkaninCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: SlimePersonCube
+  result: SlimePersonCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: YowieCube
+  result: YowieCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: VoxCube
+  result: VoxCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: ResomiCube
+  result: ResomiCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: GoblinCube
+  result: GoblinCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+    
+- type: latheRecipe
+  id: ChitinidCube
+  result: ChitinidCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
+
+- type: latheRecipe
+  id: ProtogenCube
+  result: ProtogenCube
+  completetime: 30
+  materials:
+    Biomass: 70
+    Plasma: 250
