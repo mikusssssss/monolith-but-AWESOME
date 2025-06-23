@@ -10,17 +10,24 @@ namespace Content.Server.RandomMetadata;
 [RegisterComponent]
 public sealed partial class RandomMetadataComponent : Component
 {
+
+    [DataField("descriptionSegments")]
+    public List<string>? DescriptionSegments;
+
+    [DataField("nameSegments")]
+    public List<string>? NameSegments;
+
+    [DataField("nameSeparator")]
+    public string NameSeparator = " ";
+
+    [DataField("descriptionSeparator")]
+    public string DescriptionSeparator = " ";
+    
     [DataField]
     public List<ProtoId<LocalizedDatasetPrototype>>? DescriptionSegments;
 
     [DataField]
     public List<ProtoId<LocalizedDatasetPrototype>>? NameSegments;
-
-    [DataField("nameSeparator")]
-    public string NameSeparator = " ";
-    
-    [DataField("descriptionSeparator")]
-    public string DescriptionSeparator = " ";
     
     /// Goobstation start
     /// <summary>
