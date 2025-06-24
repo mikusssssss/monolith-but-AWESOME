@@ -2,6 +2,8 @@
   parent: MonkeyCube
   id: HumanCube
   name: human cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -11,6 +13,8 @@
   parent: MonkeyCube
   id: DionaCube
   name: diona cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -20,6 +24,8 @@
   parent: MonkeyCube
   id: FelinidCube
   name: felinid cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -29,6 +35,8 @@
   parent: MonkeyCube
   id: GingerbreadCube
   name: gingerbread cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -38,6 +46,8 @@
   parent: MonkeyCube
   id: MothCube
   name: moth person cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -47,6 +57,8 @@
   parent: MonkeyCube
   id: DwarfCube
   name: dwarf cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -56,6 +68,8 @@
   parent: MonkeyCube
   id: HarpyCube
   name: harpy cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -65,6 +79,8 @@
   parent: MonkeyCube
   id: RodentiaCube
   name: rodentia cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -74,6 +90,8 @@
   parent: MonkeyCube
   id: ReptilianCube
   name: reptilian person cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -83,6 +101,8 @@
   parent: MonkeyCube
   id: VulpkaninCube
   name: vulpkanin cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -92,6 +112,8 @@
   parent: MonkeyCube
   id: SlimePersonCube
   name: slime person cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -101,6 +123,8 @@
   parent: MonkeyCube
   id: YowieCube
   name: yowie cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -110,6 +134,8 @@
   parent: MonkeyCube
   id: VoxCube
   name: vox cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -119,6 +145,8 @@
   parent: MonkeyCube
   id: ResomiCube
   name: resomi cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -128,6 +156,8 @@
   parent: MonkeyCube
   id: GoblinCube
   name: goblin cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -137,6 +167,8 @@
   parent: MonkeyCube
   id: ChitinidCube
   name: chitinid cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
@@ -146,6 +178,8 @@
   parent: MonkeyCube
   id: ProtogenCube
   name: protogen cube
+  categories:
+  - Species
   components:
   - type: Rehydratable
     possibleSpawns:
