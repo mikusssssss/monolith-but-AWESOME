@@ -1,3 +1,11 @@
-- type: entityCategory
+- type: latheCategory
   id: Species
-  name: "Species"
+  name: lathe-category-species
+
+- type: latheCategory
+  id: Animals
+  name: lathe-category-animals
+
+- type: latheCategory
+  id: DangerousAnimals
+  name: lathe-category-dangerous-animals
