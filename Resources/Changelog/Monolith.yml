@@ -4731,3 +4731,244 @@ Entries:
   id: 562
   time: '2025-06-23T00:18:12.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/912
+- author: Ark
+  changes:
+    - type: Fix
+      message: The ship shield and its blip on radar should now match.
+  id: 563
+  time: '2025-06-24T05:32:28.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/942
+- author: Redrover1760
+  changes:
+    - type: Fix
+      message: Biosynth head printable for real this time
+  id: 564
+  time: '2025-06-24T05:33:30.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/932
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Sawn-off firerate set to 3.5, equivalent to DB
+  id: 565
+  time: '2025-06-24T05:46:03.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/936
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Adds the Hydra to the Syndicate Shipyard.
+    - type: Tweak
+      message: Revamps the Infiltrator and Hunter
+  id: 566
+  time: '2025-06-24T05:48:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/941
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Southern peaks color less dark
+  id: 567
+  time: '2025-06-24T05:49:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/910
+- author: sleepyyapril
+  changes:
+    - type: Add
+      message: Ported Frontier's asteroid belt debris changes
+  id: 568
+  time: '2025-06-24T06:02:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/909
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: CO staff have 2 slots now instead of 1 each
+  id: 569
+  time: '2025-06-24T07:07:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/928
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: ASM missiles do around double the damage now.
+  id: 570
+  time: '2025-06-24T07:30:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/943
+- author: BeeRobynn
+  changes:
+    - type: Add
+      message: Added a crafting recipie for AI cores. Scientists, rejoice!
+  id: 571
+  time: '2025-06-24T07:58:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/933
+- author: Ark
+  changes:
+    - type: Tweak
+      message: Projectiles now go through railing.
+  id: 572
+  time: '2025-06-24T09:50:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/949
+- author: Ark
+  changes:
+    - type: Tweak
+      message: NPCs that are not near players should now pause.
+  id: 573
+  time: '2025-06-24T10:23:53.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/950
+- author: BlueHNT
+  changes:
+    - type: Add
+      message: Added various additions for baristas (Teas, Powders, Cups, Snacks)
+    - type: Tweak
+      message: Updated maps with the BaristaVend (TO,TM,CO kitchens)
+  id: 574
+  time: '2025-06-25T23:35:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/899
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: shortwave radio range now 750m
+  id: 575
+  time: '2025-06-25T23:36:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/962
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Solar flare no longer opens doors
+    - type: Tweak
+      message: Solar flare jams more channels at random
+  id: 576
+  time: '2025-06-25T23:37:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/963
+- author: Ark
+  changes:
+    - type: Add
+      message: Ported wallet keybinds (smart-equip and open wallet) from Frontier.
+  id: 577
+  time: '2025-06-26T01:29:01.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/968
+- author: sleepyyapril
+  changes:
+    - type: Add
+      message: TSFMC Colonels get a ship voucher now!
+  id: 578
+  time: '2025-06-26T01:33:51.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/969
+- author: BlueHNT
+  changes:
+    - type: Tweak
+      message: >-
+        Kargil and Bofors now pack a real punch, while keeping a considerable
+        delay between the shots.
+    - type: Add
+      message: Adds guidebook entries for Kargil/Bofors/Smerchs
+  id: 579
+  time: '2025-06-26T01:35:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/913
+- author: plethorian
+  changes:
+    - type: Add
+      message: Added the Spessbite shuttle to CO Shipyard
+  id: 580
+  time: '2025-06-26T01:43:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/959
+- author: Durk
+  changes:
+    - type: Remove
+      message: Removed lag!
+  id: 581
+  time: '2025-06-26T06:35:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/971
+- author: Ark
+  changes:
+    - type: Tweak
+      message: AI cores now have to be anchored to interact with anything.
+  id: 582
+  time: '2025-06-26T10:25:32.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/974
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: >-
+        Pressing Scan will no longer force you to press the FTL button twice to
+        get your FTL preview back.
+  id: 583
+  time: '2025-06-26T10:46:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/973
+- author: plethorian
+  changes:
+    - type: Fix
+      message: added missing reagent grinder to the Spessbite
+  id: 584
+  time: '2025-06-26T22:54:39.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/979
+- author: KM-Catman
+  changes:
+    - type: Tweak
+      message: Dram now costs 35250 and comes with a Uranium Generator.
+  id: 585
+  time: '2025-06-26T22:56:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/981
+- author: Ark
+  changes:
+    - type: Fix
+      message: Spawns might be fixed, did not test thoroughly.
+  id: 586
+  time: '2025-06-27T00:45:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/984
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: Sorted your round end summary.
+  id: 587
+  time: '2025-06-27T05:50:03.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/989
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: Moved some items from backpack to the Colonel's storage locker.
+    - type: Tweak
+      message: Re-added big range maxcaps
+    - type: Fix
+      message: Colonel ship voucher is now properly given to the Colonel.
+  id: 588
+  time: '2025-06-27T11:29:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/996
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: The RPG's projectile speed was lowered slightly.
+    - type: Tweak
+      message: >-
+        EMP RPGs have a tripled range of effect and more power drain, in
+        exchange for slightly less effect duration.
+  id: 589
+  time: '2025-06-28T02:23:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/994
+- author: sleepyyapril
+  changes:
+    - type: Tweak
+      message: Most rifles were buffed. No, not the Annie or the WSPR.
+    - type: Tweak
+      message: The Vulcan can hit the broad-side of a barn again.
+  id: 590
+  time: '2025-06-28T02:25:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/995
+- author: Mowmow
+  changes:
+    - type: Add
+      message: Adds the BBI Leaf, a new botanical ship, to the civilian shipyard.
+  id: 591
+  time: '2025-06-28T09:04:37.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/929
+- author: bluebrouny
+  changes:
+    - type: Add
+      message: The Ruby science ship!
+  id: 592
+  time: '2025-06-28T09:06:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/920
+- author: Redrover1760
+  changes:
+    - type: Add
+      message: Wallets can be used on the ground to vacuum nearby money
+    - type: Fix
+      message: Trash bags now start with magnet toggled off
+  id: 593
+  time: '2025-06-28T18:47:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/961
