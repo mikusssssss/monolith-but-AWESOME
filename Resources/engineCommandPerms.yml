@@ -144,6 +144,14 @@
   - loadprototype
   - uploadfolder
 
+- Flags: HEADMIN
+  Commands:
+  - tip
+  
+- Flags: SENIORMIN
+  Commands:
+  - tippy
+
 - Commands:
   - "|"
   - oldhelp
