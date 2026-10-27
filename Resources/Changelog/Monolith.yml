@@ -26464,3 +26464,10 @@ Entries:
   id: 2850
   time: '2026-10-27T17:07:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4863
+- author: DoubleHypercube
+  changes:
+    - type: Add
+      message: Mech hardpoints are now backwards compatible.
+  id: 2851
+  time: '2026-10-27T17:08:22.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4865
