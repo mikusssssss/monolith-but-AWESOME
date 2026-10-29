@@ -26496,3 +26496,10 @@ Entries:
   id: 2854
   time: '2026-10-28T23:10:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4929
+- author: EckoAurum
+  changes:
+    - type: Fix
+      message: Self harvest dead for real
+  id: 2855
+  time: '2026-10-29T00:52:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4930
