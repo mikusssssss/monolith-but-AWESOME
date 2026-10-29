@@ -26525,3 +26525,12 @@ Entries:
   id: 2857
   time: '2026-10-29T04:30:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4931
+- author: mikusssssss
+  changes:
+    - type: Tweak
+      message: >-
+        You can now have a outer description up to 2048 characters. (Not
+        Sponsored by the creators of the 2048 Game)
+  id: 2858
+  time: '2026-10-29T15:14:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4932
