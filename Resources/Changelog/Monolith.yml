@@ -26541,3 +26541,10 @@ Entries:
   id: 2859
   time: '2026-10-30T01:27:33.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4935
+- author: mikusssssss
+  changes:
+    - type: Remove
+      message: Removed Hew juice from borers.
+  id: 2860
+  time: '2026-10-30T01:50:05.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4933
