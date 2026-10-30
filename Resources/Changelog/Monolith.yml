@@ -26534,3 +26534,10 @@ Entries:
   id: 2858
   time: '2026-10-29T15:14:19.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4932
+- author: EckoAurum
+  changes:
+    - type: Fix
+      message: Sushi now slices into the correct food.
+  id: 2859
+  time: '2026-10-30T01:27:33.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4935
