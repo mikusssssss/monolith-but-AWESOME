@@ -26555,3 +26555,10 @@ Entries:
   id: 2861
   time: '2026-10-31T17:43:35.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4887
+- author: DoubleHypercube
+  changes:
+    - type: Add
+      message: The Anubis is now in the TSF uplink.
+  id: 2862
+  time: '2026-10-31T17:53:18.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4908
