@@ -26548,3 +26548,10 @@ Entries:
   id: 2860
   time: '2026-10-30T01:50:05.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4933
+- author: AthrunZala33092
+  changes:
+    - type: Add
+      message: 'Crocus: more sidearm options for TSF, melee options for both sides'
+  id: 2861
+  time: '2026-10-31T17:43:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4887
