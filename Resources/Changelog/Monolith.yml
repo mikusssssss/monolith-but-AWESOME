@@ -26592,3 +26592,10 @@ Entries:
   id: 2865
   time: '2026-10-31T18:14:09.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4940
+- author: EckoAurum
+  changes:
+    - type: Fix
+      message: Fixed thrown based movement, such as Dashes, Jumps, and Throws.
+  id: 2866
+  time: '2026-10-31T18:37:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4936
