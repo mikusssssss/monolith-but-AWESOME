@@ -26599,3 +26599,28 @@ Entries:
   id: 2866
   time: '2026-10-31T18:37:00.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4936
+- author: DoubleHypercube
+  changes:
+    - type: Add
+      message: Ported heels from Starlight.
+    - type: Add
+      message: Ported colour-changing hairflowers from Moffstation.
+    - type: Tweak
+      message: The hard-worn & noir suitskirts are now actually suitskirts.
+    - type: Add
+      message: MMC employees now get a skirt uniform option.
+    - type: Tweak
+      message: All vestigal Head of Security references have been renamed to Overseer.
+    - type: Add
+      message: >-
+        Judges, MMC employees, and civilians now get military-issue jackets and
+        coats - with some decent armour.
+    - type: Add
+      message: Judges now get several additional uniform options.
+    - type: Add
+      message: 'Semiported Frontier PR 4299: adds red, green, and blue wallets.'
+    - type: Add
+      message: Added leather satchels to civilian and MMC loadouts.
+  id: 2867
+  time: '2026-10-31T19:01:38.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/4891
